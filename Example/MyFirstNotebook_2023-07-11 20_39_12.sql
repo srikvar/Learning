@@ -1,0 +1,3 @@
+-- Databricks notebook source
+-- MAGIC %sql
+-- MAGIC SELECT "My First Note Book - Remote Integration with GitHub"
