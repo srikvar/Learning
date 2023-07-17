@@ -1,0 +1,2 @@
+-- Databricks notebook source
+-- MAGIC %run ../Includes/Classroom-Setup-02.1

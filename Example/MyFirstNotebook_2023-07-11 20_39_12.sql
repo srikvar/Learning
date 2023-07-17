@@ -1,3 +1,3 @@
 -- Databricks notebook source
 -- MAGIC %sql
--- MAGIC SELECT "My First Note Book - Remote Integration with GitHub - Always use userid instead of email to successfully push files to remote repo"
+-- MAGIC SELECT "My First Databricks Note Book - Remote Integration with GitHub - Always use userid instead of email to successfully push files to remote repo"
